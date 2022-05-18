@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, call me "Ghost"! 👋
 
 - 🔭 I’m currently working on a few Friday Night Funkin' Projects, some of which have other very talented people on them, I'd recommend checking them out once I'm done
 - 🌱 I’m currently learning Haxe, Lua and (hopefully) Rust and C+

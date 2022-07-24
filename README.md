@@ -21,6 +21,6 @@ I'm a transsexual man and hobbyist programmer
 * [Add 'onUpdateScore' as a lua function](https://github.com/ShadowMario/FNF-PsychEngine/pull/9656)
 
 # [Forever Engine](https://github.com/Yoshubs/Forever-Engine-Legacy)
-* [New Features and Fixes](https://github.com/Yoshubs/Forever-Engine-Legacy/pull/131)
-* [Original Charting State Improvements](https://github.com/Yoshubs/Forever-Engine-Legacy/pull/135)
-* [Asset Modifiers Changeable through Chart](https://github.com/Yoshubs/Forever-Engine-Legacy/pull/142)
+* [New Features and Fixes, such as smoother icon bouncing animations and more](https://github.com/Yoshubs/Forever-Engine-Legacy/pull/131)
+* [Several Original Charting State Improvements](https://github.com/Yoshubs/Forever-Engine-Legacy/pull/135)
+* [Asset Modifiers Changeable through Chart Editor](https://github.com/Yoshubs/Forever-Engine-Legacy/pull/142)

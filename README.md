@@ -11,26 +11,26 @@ I'm a transsexual man and hobbyist programmer
 
 ---------------------------------------
 
-# Trans Rights are Human Rights!! 🏳️‍⚧️ 💙
+## Trans Rights are Human Rights!! 🏳️‍⚧️ 💙
 
 ---------------------------------------
 
 ## some Projects I'm working on!
 
-## [Forever Engine Underscore](https://github.com/BeastlyGhost/Forever-Engine-Underscore)
+### [Forever Engine Underscore](https://github.com/BeastlyGhost/Forever-Engine-Underscore)
 * a heavily modified version of Forever Engine, which includes Quality of Life improvements along with upcoming Mod Support
 
 ---------------------------------------
 
 ## some of my contributions to other projects!
 
-## [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine)
+### [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine)
 * [Achievement Icons](https://github.com/ShadowMario/FNF-PsychEngine/pull/8695)
 * [Replace FlxVideo with hxCodec](https://github.com/ShadowMario/FNF-PsychEngine/pull/8985)
 * [Fix Score Text Memory Leaks](https://github.com/ShadowMario/FNF-PsychEngine/pull/9337)
 * [Add 'onUpdateScore' as a lua function](https://github.com/ShadowMario/FNF-PsychEngine/pull/9656)
 
-## [Forever Engine](https://github.com/Yoshubs/Forever-Engine-Legacy)
+### [Forever Engine](https://github.com/Yoshubs/Forever-Engine-Legacy)
 * [New Features and Fixes, such as smoother icon bouncing animations and more](https://github.com/Yoshubs/Forever-Engine-Legacy/pull/131)
 * [Several Original Charting State Improvements](https://github.com/Yoshubs/Forever-Engine-Legacy/pull/135)
 * [Asset Modifiers Changeable through Chart Editor](https://github.com/Yoshubs/Forever-Engine-Legacy/pull/142)

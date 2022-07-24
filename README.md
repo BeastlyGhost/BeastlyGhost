@@ -19,6 +19,7 @@ I'm a transsexual man and hobbyist programmer
 
 ### [Forever Engine Underscore](https://github.com/BeastlyGhost/Forever-Engine-Underscore)
 * a heavily modified version of Forever Engine, which includes Quality of Life improvements along with upcoming Mod Support
+* as an example, here's a file that contains [character data](https://github.com/BeastlyGhost/Forever-Engine-Underscore/blob/underscore-master/mods/default/characters/exampleChar/config.hxs), which mods will use in the future
 
 ---------------------------------------
 

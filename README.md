@@ -7,12 +7,16 @@ I'm a transsexual man and hobbyist programmer
 - 📫 How to reach me: through Discord, @BeastlyGhost#9035, as an alternative (less likely to receive replies), Twitter: @Fan_de_RPG
 - 😄 Pronouns: she/her (I often don't care about pronouns that much though, but refer to me as a female)
 
-# some Forked Projects I'm working on!
+# Trans Rights are Human Rights!! 🏳️‍⚧️
+
+---------------------------------------
+
+## some Projects I'm working on!
 
 ## [Forever Engine Underscore](https://github.com/BeastlyGhost/Forever-Engine-Underscore)
 * a heavily modified version of Forever Engine, which includes Quality of Life improvements along with upcoming Mod Support
 
-# some of my contributions to other projects!
+## some of my contributions to other projects!
 
 ## [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine)
 * [Achievement Icons](https://github.com/ShadowMario/FNF-PsychEngine/pull/8695)

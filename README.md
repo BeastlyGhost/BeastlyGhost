@@ -34,3 +34,5 @@ I'm a transsexual man and hobbyist programmer
 * [New Features and Fixes, such as smoother icon bouncing animations and more](https://github.com/Yoshubs/Forever-Engine-Legacy/pull/131)
 * [Several Original Charting State Improvements](https://github.com/Yoshubs/Forever-Engine-Legacy/pull/135)
 * [Asset Modifiers Changeable through Chart Editor](https://github.com/Yoshubs/Forever-Engine-Legacy/pull/142)
+
+---------------------------------------
